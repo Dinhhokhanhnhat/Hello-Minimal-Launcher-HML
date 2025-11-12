@@ -1,8 +1,7 @@
-HML - Hello, Minimal Launcher.
 "We play Minecraft Java but pocket edition."
 
-HML is an all-in-one Minecraft Launcher, you can play Minecraft directly without having to install JDK (Java Development Kit) 
-or JRE (Java Runtime Environment). HML is a great choice if you want to experience Minecraft on any device without worrying about user permissions.
+HML is an all-in-one Minecraft Launcher, you can play Minecraft directly without having to install JDK
+or JRE. HML is a great choice if you want to play Minecraft on any device without worrying about user permissions.
 
 DON'T MODIFY ANYTHING, UNLESS YOU UNDERSTAND WHAT ARE YOU DOING!
 Remember: "If it ain't broke don't fix it".
@@ -18,7 +17,6 @@ Recommended:
 - 4 GB RAM or higher.
 - Internet connection.
 
-License:
 This project is provided as-is for personal use only. Redistribution,
 modification, or commercial use is prohibited without permission from Lykke Månestrand.
 
@@ -32,3 +30,4 @@ Developer: Lykke Månestrand.
 "README writer": Lykke Månestrand.
 Translator: Lykke Månestrand.
 "Lao people."
+
