@@ -31,3 +31,4 @@ Developer: Lykke Månestrand.
 Translator: Lykke Månestrand.
 "Lao people."
 
+Note: HML currently support only Windows!
